@@ -1,2 +1,3 @@
-chaine = "python is amazing"
-print(chaine[0:17])
+chaine = "baba"
+chaine = "d" + chaine[1 :]
+print(chaine)
